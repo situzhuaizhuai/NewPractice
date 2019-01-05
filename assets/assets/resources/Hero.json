@@ -1,0 +1,7 @@
+[
+{"id":"1", "itemName":"突击女警", "itemYield":"1000", "iconSF":"hero_1", "yield":"10"},
+{"id":"2", "itemName":"冲锋战士", "itemYield":"2000", "iconSF":"hero_2", "yield":"20"},
+{"id":"3", "itemName":"散弹猎人", "itemYield":"3000", "iconSF":"hero_3", "yield":"30"},
+{"id":"4", "itemName":"炮兵班长", "itemYield":"4000", "iconSF":"hero_4", "yield":"40"},
+{"id":"5", "itemName":"火男", "itemYield":"5000", "iconSF":"hero_5", "yield":"50"}
+]
